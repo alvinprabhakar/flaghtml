@@ -25,7 +25,7 @@ let flag = [
       },
   
     {
-      img: "https://en.wikipedia.org/wiki/Flag_of_Iceland#/media/File:Flag_of_Iceland.svg",
+      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/640px-Flag_of_Iceland.svg.png",
       name: "ICELAND",
       population: "334,300",
       region: "Europe",
@@ -33,7 +33,7 @@ let flag = [
     },
   
     {
-      img: "https://en.wikipedia.org/wiki/Flag_of_Afghanistan#/media/File:Flag_of_Afghanistan.svg",
+      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/640px-Flag_of_Afghanistan.svg.png",
       name: "Afghanistan",
       population: "27,657,145",
       region: "Asia",
@@ -41,7 +41,7 @@ let flag = [
     },
   
     {
-      img: "https://en.wikipedia.org/wiki/%C3%85land_Islands#/media/File:Flag_of_%C3%85land.svg",
+      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_%C3%85land.svg/640px-Flag_of_%C3%85land.svg.png",
       name: "Åland Islands",
       population: "28,875",
       region: "Europe",
@@ -49,15 +49,15 @@ let flag = [
     },
   
     {
-      img: "https://en.wikipedia.org/wiki/Flag_of_Albania#/media/File:Flag_of_Albania.svg",
-      name: "Albana",
+      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/640px-Flag_of_Albania.svg.png",
+      name: "Albania",
       population: "2,886,026",
       region: "Europe",
       capital: "Tirana",
     },
   
     {
-      img: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931958%29.svg",
+      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/640px-Flag_of_Algeria.svg.png",
       name: "Algeria",
       population: "40,400,000",
       region: "Africa",
