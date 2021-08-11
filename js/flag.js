@@ -1,12 +1,13 @@
 let flag = [
+
     {
-      img: "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg",
-      name: "India",
-      population: "1,380,004,385",
-      region: "Asia",
-      capital: "Delhi",
-    },
-  
+        img: "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+        name: "Germany",
+        population: "81,770,900",
+        region: "Europe",
+        capital: "Berlin",
+      },
+     
     {
       img: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Vermin_Supreme_USA_flag.svg",
       name: "USA",
@@ -14,54 +15,56 @@ let flag = [
       region: "North America",
       capital: "Washington, D.C.",
     },
+
+    {
+        img: "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+        name: "BRAZIL",
+        population: "212,559,417",
+        region: "South America",
+        capital: "Brasilia",
+      },
   
     {
-      img: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
-      name: "RUSSIA",
-      population: "145,934,462",
-      region: "northern Eurasia",
-      capital: "Moscow",
+      img: "https://en.wikipedia.org/wiki/Flag_of_Iceland#/media/File:Flag_of_Iceland.svg",
+      name: "ICELAND",
+      population: "334,300",
+      region: "Europe",
+      capital: "Reykjavik",
     },
   
     {
-      img: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
-      name: "CHINA",
-      population: "1,439,323,776",
+      img: "https://en.wikipedia.org/wiki/Flag_of_Afghanistan#/media/File:Flag_of_Afghanistan.svg",
+      name: "Afghanistan",
+      population: "27,657,145",
       region: "Asia",
-      capital: "Beijing",
+      capital: "Kabul",
     },
   
     {
-      img: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
-      name: "JAPAN",
-      population: "126,476,461",
-      region: "Asia",
-      capital: "Tokyo",
+      img: "https://en.wikipedia.org/wiki/%C3%85land_Islands#/media/File:Flag_of_%C3%85land.svg",
+      name: "Åland Islands",
+      population: "28,875",
+      region: "Europe",
+      capital: "Mariehamn",
     },
   
     {
-      img: "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
-      name: "AUSTRALIA",
-      population: "25,694,393",
-      region: "Oceania",
-      capital: "Canberra",
+      img: "https://en.wikipedia.org/wiki/Flag_of_Albania#/media/File:Flag_of_Albania.svg",
+      name: "Albana",
+      population: "2,886,026",
+      region: "Europe",
+      capital: "Tirana",
     },
   
     {
       img: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931958%29.svg",
-      name: "FRANCE",
-      population: "65,273,511",
-      region: "Europe",
-      capital: "Paris",
+      name: "Algeria",
+      population: "40,400,000",
+      region: "Africa",
+      capital: "Algiers",
     },
   
-    {
-      img: "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
-      name: "BRAZIL",
-      population: "212,559,417",
-      region: "South America",
-      capital: "Brasilia",
-    },
+    
   ];
   
   function flagsFunction(flag){
