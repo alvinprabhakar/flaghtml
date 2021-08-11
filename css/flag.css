@@ -1,0 +1,30 @@
+:root{
+    font-size : 10px; /* 1 rem changes to 10px */
+  }
+  
+  .container{
+    background-color: white;
+    max-width: 15rem;
+    border-radius : 0.5rem;
+    overflow: hidden;
+    box-shadow: 3px 3px 10px 0px rgb(50,50,0.1);
+    margin-bottom: 2rem;
+  }
+  
+  body{
+    background-color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .flag {
+    height: 10rem;
+    width: 100%;
+  }
+  
+  .info{
+    padding: 1rem;
+  }
+  
+  .side-heading{
+    font-weight: bold;
+  }
