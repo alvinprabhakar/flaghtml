@@ -9,7 +9,7 @@ let flag = [
       },
      
     {
-      img: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Vermin_Supreme_USA_flag.svg",
+      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/640px-Flag_of_the_United_States.svg.png",
       name: "USA",
       population: "331,449,281",
       region: "North America",
@@ -17,7 +17,7 @@ let flag = [
     },
 
     {
-        img: "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/640px-Flag_of_Brazil.svg.png",
         name: "BRAZIL",
         population: "212,559,417",
         region: "South America",
