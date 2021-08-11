@@ -9,6 +9,8 @@
     overflow: hidden;
     box-shadow: 3px 3px 10px 0px rgb(50,50,0.1);
     margin-bottom: 2rem;
+    display: inline-block;
+    margin-left: 2rem;
   }
   
   body{
